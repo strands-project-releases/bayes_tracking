@@ -1,3 +1,24 @@
+## bayes_tracking (indigo) - 1.0.5-0
+
+The packages in the `bayes_tracking` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo bayes_tracking` on `Wed, 29 Oct 2014 20:06:02 -0000`
+
+The `bayes_tracking` package was released.
+
+Version of package(s) in repository `bayes_tracking`:
+- upstream repository: https://github.com/LCAS/bayestracking.git
+- release repository: https://github.com/strands-project-releases/bayes_tracking.git
+- rosdistro version: `1.0.4-0`
+- old version: `1.0.4-0`
+- new version: `1.0.5-0`
+
+Versions of tools used:
+- bloom version: `0.5.12`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.10.32`
+- rosdistro version: `0.3.6`
+- vcstools version: `0.1.35`
+
+
 ## bayes_tracking (indigo) - 1.0.4-0
 
 The packages in the `bayes_tracking` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo bayes_tracking --edit` on `Wed, 29 Oct 2014 17:11:52 -0000`
