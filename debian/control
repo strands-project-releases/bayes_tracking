@@ -1,0 +1,12 @@
+Source: ros-indigo-bayes-tracking
+Section: misc
+Priority: extra
+Maintainer: Christian Dondrup <cdondrup@lincoln.ac.uk>
+Build-Depends: debhelper (>= 9.0.0), libblas-dev, libboost-all-dev, ros-indigo-catkin, ros-indigo-cv-bridge
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-bayes-tracking
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libblas-dev, libboost-all-dev, ros-indigo-cv-bridge
+Description: The bayestracking package uses extended or unscented Kalman filters to track movement. The constant velocity model has been designed to track the movement of people in cartesian space in particular.
